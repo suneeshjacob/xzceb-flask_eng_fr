@@ -1,5 +1,5 @@
 import unittest
-from translator import *
+from machinetranslation.translator import *
 
 class testing(unittest.TestCase):
     def test_hello(self):
